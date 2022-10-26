@@ -19,7 +19,7 @@ const Person() {
 }
 ```
 
-I'm a Software developer at Sesc-sc.
+I'm a Software developer at Sesc-Sc.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoStuani&count_private=true&show_icons=true&theme=dracula)
 
