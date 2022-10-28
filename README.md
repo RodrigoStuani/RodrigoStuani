@@ -7,7 +7,7 @@ const Person() {
     birthday: "1988-06-22T12:05:00",
     from: "Brazil",
     level: "Software Developer",
-    job: "Sesc-sc",
+    job: "Sesc-Sc",
     currentStudy: "Design patterns",
     social: [
         {
