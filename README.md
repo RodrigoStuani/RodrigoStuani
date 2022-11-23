@@ -7,7 +7,7 @@ const Person() {
     birthday: "1988-06-22T12:05:00",
     from: "Brazil",
     level: "Software Developer",
-    job: "Sesc-Sc",
+    job: "Sesc-SC",
     currentStudy: "Design patterns",
     social: [
         {
@@ -19,7 +19,7 @@ const Person() {
 }
 ```
 
-I'm a Software developer at Sesc-Sc.
+I'm a Software developer at Sesc-SC.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoStuani&count_private=true&show_icons=true&theme=dracula)
 
