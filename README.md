@@ -8,7 +8,7 @@ const Person() {
     from: "Brazil",
     level: "Software Developer",
     job: "Sesc-SC",
-    currentStudy: "Design patterns",
+    currentStudy: "Refactoring",
     social: [
         {
           network: {
