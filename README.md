@@ -21,3 +21,4 @@ const Person() {
 
 I'm a Software developer at Sesc-SC.
 
+[![Switch between light and dark mode to see the difference. Click to see the source](https://github.com/pedroor/pedroor/blob/output/github-contribution-grid-snake.svg)](https://github.com/pedroor/pedroor/blob/output/github-contribution-grid-snake.svg)
