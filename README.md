@@ -1,6 +1,6 @@
 # Rodrigo Stuani
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Stuani-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-stuani/)](https://www.linkedin.com/in/rodrigo-stuani/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Stuani-00875f?style=flat-square&logo=Linkedin-blue&logoColor=white&link=https://www.linkedin.com/in/rodrigo-stuani/)](https://www.linkedin.com/in/rodrigo-stuani/) 
 [![Gmail Badge](https://img.shields.io/badge/-stuani.developer@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stuani.developer@gmail.com)](mailto:stuani.developer@gmail.com)
 
 ```js
