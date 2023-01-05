@@ -27,7 +27,7 @@ myResume();
 
 I'm a Software developer at Sesc-SC.
 
-![Rodrigo Stuani github stats](https://github-readme-stats.vercel.app/api?username=RodrigoStuani&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&count_private=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoStuani&layout=compact&theme=dracula&hide_border=true)
+| <a href="https://github-readme-stats.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoStuani&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&count_private=true" alt="Rodrigo Stuani github stats" /></a> | <a href="https://github-readme-stats.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoStuani&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 [![Switch between light and dark mode to see the difference. Click to see the source](https://github.com/pedroor/pedroor/blob/output/github-contribution-grid-snake.svg)](https://github.com/pedroor/pedroor/blob/output/github-contribution-grid-snake.svg)
