@@ -25,7 +25,7 @@ myResume();
 
 ```
 
-I'm a Software developer at Sesc-SC.
+I'm a Software Developer at Sesc-SC.
 
 <!-- | <a href="https://github-readme-stats.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoStuani&show_icons=true&theme=dracula&hide_border=true" alt="Rodrigo Stuani github stats" /></a> | <a href="https://github-readme-stats.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoStuani&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- | -->
