@@ -12,7 +12,7 @@ myResume = () => {
   let age = 34;
   let level = 'Software Developer';
   let job = 'Sesc-SC';
-  let currentStudy = 'Refactoring';
+  let currentStudy = 'Coding';
   const social: [
     {
       network: {
