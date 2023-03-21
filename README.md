@@ -13,12 +13,13 @@ myResume = () => {
   let level = 'Software Developer';
   let job = 'Sesc-SC';
   let currentStudy = 'Coding';
-  const social: [
-    {
-      network: {
-        name: "https://www.linkedin.com/in/rodrigo-stuani/"
+  const social = [{
+    network: {
+      name: "https://www.linkedin.com/in/rodrigo-stuani/"
     }
-  ]
+  }];
+
+  console.log(`Hello, my name is ${name}. I'm ${age} years old and I'm from ${from}. I work as a ${level} at ${job} and currently I'm studying ${currentStudy}. You can find me on LinkedIn at ${social[0].network.name}.`);
 };
 
 myResume();
