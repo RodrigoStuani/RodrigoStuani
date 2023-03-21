@@ -19,7 +19,9 @@ myResume = () => {
     }
   }];
 
-  console.log(`Hello, my name is ${name}. I'm ${age} years old and I'm from ${from}. I work as a ${level} at ${job} and currently I'm studying ${currentStudy}. You can find me on LinkedIn at ${social[0].network.name}.`);
+  console.log(`Hello, my name is ${name}. I'm ${age} years old and I'm from ${from}. 
+               I work as a ${level} at ${job} and currently I'm studying ${currentStudy}. 
+               You can find me on LinkedIn at ${social[0].network.name}.`);
 };
 
 myResume();
