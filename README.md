@@ -9,7 +9,7 @@ myResume = () => {
   const name = 'Rodrigo Stuani';  
   const birthday = '1988-06-22T12:05:00';
   const from = 'Brazil';
-  let age = 34;
+  let age = 35;
   let level = 'Software Developer';
   let job = 'Sesc-SC';
   let currentStudy = 'Coding';
