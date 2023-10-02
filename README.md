@@ -12,7 +12,7 @@ myResume = () => {
   let age = 35;
   let level = 'Software Developer';
   let job = 'Sesc-SC';
-  let currentStudy = 'Coding';
+  let currentStudy = 'Clean Code e Clean Architecture';
   const social = [{
     network: {
       name: "https://www.linkedin.com/in/rodrigo-stuani/"
