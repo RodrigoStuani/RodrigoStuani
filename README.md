@@ -4,16 +4,24 @@
 [![Gmail Badge](https://img.shields.io/badge/-stuani.developer@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stuani.developer@gmail.com)](mailto:stuani.developer@gmail.com)
 
 ```js
-// Javascript version
-myResume = () => {
-  const name = 'Rodrigo Stuani';  
-  const birthday = '1988-06-22T12:05:00';
-  const from = 'Brazil';
-  let age = 35;
-  let level = 'Software Developer';
-  let job = 'Sesc-SC';
-  let currentStudy = 'Clean Code e Clean Architecture';
-  const social = [{
+// Typescript version
+const calculateAge = (birthdate: string): number => {
+  const birthdateDate = new Date(birthdate);
+  const currentDate = new Date();
+  const ageInMilliseconds = currentDate - birthdateDate;
+  const ageInYears = ageInMilliseconds / (1000 * 60 * 60 * 24 * 365.25);
+  return Math.floor(ageInYears);
+};
+
+const myResume = (): void => {
+  const name: string = 'Rodrigo Stuani';  
+  const birthday: string = '1988-06-22T12:05:00';
+  const from: string = 'Brazil';
+  const age: number = calculateAge(birthday);
+  let level: string = 'Software Developer';
+  let job: string = 'Sesc-SC';
+  let currentStudy: string = 'Clean Code e Clean Architecture';
+  const social: { network: { name: string } }[] = [{
     network: {
       name: "https://www.linkedin.com/in/rodrigo-stuani/"
     }
