@@ -20,7 +20,7 @@ const myResume = (): void => {
   const age: number = calculateAge(birthday);
   let level: string = 'Software Developer';
   let job: string = 'Sesc-SC';
-  let currentStudy: string = 'Clean Code e Clean Architecture';
+  let currentStudy: string = 'Figma Formation';
   const social: { network: { name: string } }[] = [{
     network: {
       name: "https://www.linkedin.com/in/rodrigo-stuani/"
