@@ -35,9 +35,8 @@ const myResume = (): void => {
 myResume();
 
 ```
-
-
 <!-- | <a href="https://github-readme-stats.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoStuani&show_icons=true&theme=dracula&hide_border=true" alt="Rodrigo Stuani github stats" /></a> | <a href="https://github-readme-stats.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoStuani&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- | -->
 
-[![Switch between light and dark mode to see the difference. Click to see the source](https://github.com/pedroor/pedroor/blob/output/github-contribution-grid-snake.svg)](https://github.com/pedroor/pedroor/blob/output/github-contribution-grid-snake.svg)
+<!--[![Switch between light and dark mode to see the difference. Click to see the source](https://github.com/pedroor/pedroor/blob/output/github-contribution-grid-snake.svg)](https://github.com/pedroor/pedroor/blob/output/github-contribution-grid-snake.svg)-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
